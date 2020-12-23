@@ -1,5 +1,5 @@
 public class Hello {
-    int x = 10;
+    int x = 50;
 
     public static void main(String[] args) {
         Sytem.out.println("Hello World");
